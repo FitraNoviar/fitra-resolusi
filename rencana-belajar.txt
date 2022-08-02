@@ -3,3 +3,4 @@ RENCANA BELAJAR
 ^nonton channel wpu
 - GIT
 - nestj dan node js
+- menambah ilmu dasar
