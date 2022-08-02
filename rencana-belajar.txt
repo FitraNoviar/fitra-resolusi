@@ -5,3 +5,4 @@ RENCANA BELAJAR
 - GIT
 - nestj dan node js
 - menambah ilmu dasar
+- menginstall redis
