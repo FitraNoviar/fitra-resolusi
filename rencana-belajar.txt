@@ -3,6 +3,5 @@ RENCANA BELAJAR
 ^nonton channel wpu
 ^nonton channel lain
 - GIT
-- nestj dan node js
 - menambah ilmu dasar
 - menginstall redis
