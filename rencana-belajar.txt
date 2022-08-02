@@ -1,6 +1,7 @@
 RENCANA BELAJAR
 - Seiap Hari menonton vieo untuk menambah skill
 ^nonton channel wpu
+^nonton channel lain
 - GIT
 - nestj dan node js
 - menambah ilmu dasar
